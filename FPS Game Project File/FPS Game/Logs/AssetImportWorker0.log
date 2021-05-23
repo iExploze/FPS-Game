@@ -168,3 +168,73 @@ Received Import Request.
   path: Assets/Control3.cs
   artifactKey: Guid(b6d322002d927af4ea8ff9d9a5229a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Control3.cs using Guid(b6d322002d927af4ea8ff9d9a5229a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85aafe27763757a96959cbc20007ea4') in 0.003056 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 1.476100 ms (FindLiveObjects: 0.108100 ms CreateObjectMapping: 0.023500 ms MarkObjects: 1.332200 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.650 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 1.499600 ms (FindLiveObjects: 0.109300 ms CreateObjectMapping: 0.023900 ms MarkObjects: 1.353700 ms  DeleteObjects: 0.011800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.117572 seconds.
+  path: Assets/Control3.cs
+  artifactKey: Guid(b6d322002d927af4ea8ff9d9a5229a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Control3.cs using Guid(b6d322002d927af4ea8ff9d9a5229a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813bdee5ab654df74d215af6233bebb3') in 0.003038 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.669 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.1 MB.
+System memory in use after: 58.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 1.448800 ms (FindLiveObjects: 0.116300 ms CreateObjectMapping: 0.023800 ms MarkObjects: 1.298900 ms  DeleteObjects: 0.009100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
